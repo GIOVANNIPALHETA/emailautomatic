@@ -1,0 +1,32 @@
+{
+  "from_name": "Setor de Segurança do Trabalho",
+  "messages": [
+    {
+      "to": [
+        "destinatario1@example.com"
+      ],
+      "cc": [],
+      "bcc": [],
+      "subject": "Solicitação mensal - Unidade A",
+      "body": "Texto A"
+    },
+    {
+      "to": [
+        "destinatario2@example.com"
+      ],
+      "cc": [],
+      "bcc": [],
+      "subject": "Solicitação mensal - Unidade B",
+      "body": "TEXTO B"
+    },
+    {
+      "to": [
+        "destinatario3@example.com"
+      ],
+      "cc": [],
+      "bcc": [],
+      "subject": "Solicitação mensal - Unidade C",
+      "body": "TEXTO C"
+    }
+  ]
+}
